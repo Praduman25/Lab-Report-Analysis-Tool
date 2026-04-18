@@ -1,0 +1,14 @@
+.env
+
+# SQLite database (contains user data)
+*.db
+frontend/users.db
+
+# Temp files from uploads
+frontend/_tmp_img
+frontend/_tmp.pdf
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
